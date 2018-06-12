@@ -1,4 +1,4 @@
-Megjegyzés: mivel az alkalmazáshoz használt api.fixer.io webszolgáltatás időközben megváltozott (és részben fizetős lett), ezért az alkalmazás nem működik megfelelően amikor pénznemet váltanék a beállításokban vagy pénzösszeget rendelnék az új esemény felvételénél.
+Megjegyzés: mivel az alkalmazáshoz használt api.fixer.io webszolgáltatás időközben megváltozott (és részben fizetős lett), ezért az alkalmazás nem működik megfelelően amikor pénznemet váltanék a beállításokban vagy pénzösszeget rendelnék az új eseményhez.
 
 # EventHandler
 
