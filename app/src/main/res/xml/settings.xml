@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/notification">
+        <SwitchPreference
+            android:key="notification"
+            android:summaryOff="@string/label_off"
+            android:summaryOn="@string/label_on"
+            android:title="@string/allow" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/currency">
+        <ListPreference
+            android:entries="@array/currencies"
+            android:entryValues="@array/currencies"
+            android:key="currency"
+            android:summary="%s" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
